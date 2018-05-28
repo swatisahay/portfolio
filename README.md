@@ -6,18 +6,17 @@
 
 ## Description
 
-Created my portfolio landing page as first week project for Epicodus using HTML CSS and bootstrap
+Created my portfolio landing page as first week project for Epicodus using HTML CSS and bootstrap, this webpage gives information about my job experience, my background, and my previous projects.
 ## Setup/Installation Requirements
 
-* Learnt terminal command to create files, directories initialiing Git and pushing codes to github
-* Created github account to save the project globally
+* Learnt terminal command to create files, directories initializing Git and pushing codes to Github
+* Created Github account to save the project globally
 * Installed bootstrap
 * Downloaded atom to write HTML CSS codes
 
 
 
 ## Technologies Used
-
 * HTML
 * CSS
 * bootstrap
